@@ -50,7 +50,7 @@ for table_idx, table in enumerate(result.tables):
 
 # Guardar cada DataFrame en un archivo CSV
 for idx, df in enumerate(dataframes):
-    filename = f"Thyssenkrupp_csv/tabla_{idx}.csv"
+    filename = f"Forvia_csv/tabla_{idx}.csv"
     df.to_csv(filename, index=False)
     print(f"DataFrame de la Tabla #{idx} guardado como {filename}")
 
