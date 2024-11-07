@@ -1,5 +1,7 @@
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
+import pandas as pd
+import csv
 
 endpoint = "https://westeurope.api.cognitive.microsoft.com/"
 key = "778cd3003d86499e82d67db670bbbc36"
@@ -19,43 +21,6 @@ for idx, style in enumerate(result.styles):
          "handwritten" if style.is_handwritten else "no handwritten"
         )
     )
-
-# for page in result.pages:
-#     for line_idx, line in enumerate(page.lines):
-#         print(
-#          "...Line # {} has text content '{}'".format(
-#         line_idx,
-#         line.content.encode("utf-8")
-#         )
-#     )
-
-#     for selection_mark in page.selection_marks:
-#         print(
-#          "...Selection mark is '{}' and has a confidence of {}".format(
-#          selection_mark.state,
-#          selection_mark.confidence
-#          )
-#     )
-
-# for table_idx, table in enumerate(result.tables):
-#     print(
-#         "Table # {} has {} rows and {} columns".format(
-#         table_idx, table.row_count, table.column_count
-#         )
-#     )
-        
-#     for cell in table.cells:
-#         print(
-#             "...Cell[{}][{}] has content '{}'".format(
-#             cell.row_index,
-#             cell.column_index,
-#             cell.content.encode("utf-8"),
-#             )
-#         )
-
-import pandas as pd
-import csv
-from openpyxl import load_workbook
 
 # Creamos una lista para almacenar DataFrames de cada tabla
 dataframes = []
@@ -84,6 +49,7 @@ for table_idx, table in enumerate(result.tables):
 
 # Guardar cada DataFrame en un archivo CSV
 for idx, df in enumerate(dataframes):
-    filename = f"tabla_{idx}.csv"
+    filename = f"magna_csv/tabla_{idx}.csv"
     df.to_csv(filename, index=False)
     print(f"DataFrame de la Tabla #{idx} guardado como {filename}")
+
