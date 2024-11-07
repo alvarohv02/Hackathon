@@ -7,6 +7,7 @@ endpoint = "https://westeurope.api.cognitive.microsoft.com/"
 key = "778cd3003d86499e82d67db670bbbc36"
 
 # sample document
+
 formUrl = "https://d2zo35mdb530wx.cloudfront.net/_binary/UCPthyssenkruppAG/370e5e3b-9068-4437-8820-5b3530b02868/Annual-Report-2022_2023_thyssenkrupp.pdf"
 
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
