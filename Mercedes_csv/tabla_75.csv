@@ -1,0 +1,30 @@
+0,1,2,3
+GRI 305-1/-2,,,
+,20233,2022,20212
+Scope 1: direct CO2 emissions,538,569,681
+"- Fuels
+:unselected:",85,,
+"- Heating oil
+:unselected:",20,,
+"- Liquefied petroleum gas
+:unselected:",8,,
+"- Natural gas
+:unselected:",424,,
+Scope 2: indirect CO2 emissions - market-based,83,94,466
+"- Hydrogen
+:unselected:",5,,
+"- District heating
+:unselected:",78,,
+"- Electricity
+:unselected:",0,,
+Scope 2: indirect CO2 emissions - location-based,933,"1,121","1,123"
+Total - market-based1,621,663,"1,148"
+Thereof total in production,511,539,947
+Total - location-based1,"1,471","1,690","1,805"
+Thereof total in production,"1,278","1,445","1,542"
+,,,
+Further information on greenhouse gas accounting,,,
+Biogenic emissions - Scope 1,5,,
+Biogenic emissions - Scope 2,2,,
+Other greenhouse gases (unit: CO2e)4,5,,
+CO2 compensation for unavoidable emissions,626,,

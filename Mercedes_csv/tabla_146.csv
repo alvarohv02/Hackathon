@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Level 01,Level 11,Level 21,Level 31,Level 41,Level 51
+,,,:unselected:,:unselected:,
+,,,,,
+Driver only,Driver assistance,Partial automation,Conditional automation,High automation,Full automation
+The driver is responsible for longitudinal and lateral guidance at all times.,The driver is responsible for longitudinal or lateral guidance at all times.,The driver must monitor the system at all times.,The driver no longer has to monitor the system at all times. The driver must potentially be able to take control of the vehicle.,No driver required for a specific use case.,No driver needed at any point from start to destination.
+No intervening vehicle system is active.,The system takes care of the respective other function.,The system takes care of longitudinal and lateral guidance in a specific use case2.,The system takes care of longitudinal and lateral guidance in a specific use case2. The system recognises its limits and tells the driver to take control of the vehicle in good time.,The system can automatically handle all situations in the specific use case2.,"The system takes care of all driving tasks on any type of road, at any speed, and under any conditions."
