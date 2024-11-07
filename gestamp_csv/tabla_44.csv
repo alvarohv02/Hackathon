@@ -1,0 +1,24 @@
+0,1,2,3,4
+Greenhouse gas emissions (TnCO2eq),2021,2022,2023,% of total emis- sions
+Direct Emissions: Scope 1,"209,106","197,907","198,281",1.8%
+Natural gas,"176,003","159,268","160,590",1.5%
+LPG,"21,913","25,776","25,992",0.2%
+Diesel,"9,540","9,816",8.752,0.1%
+Indirect Emissions: Scope 2*,"356,500","297,789","295,928",2.8%
+Indirect Emissions: Scope 3,"9,674,616","8,633,929","10,232,475",95.4%
+Category 1 - Purchased goods and services,"7,559,053","6,578,857","7,963,187",74.2%
+Category 2 - Capital goods,"218,778","281,975","391,885",3.7%
+Category 3 - Energy-related activities,"158,479","156,888","159,310","1,5%"
+Category 4 - Upstream transportation and distribution,136.646,"161,496","187,022",1.7%
+Category 5 - Waste generated in operations,"26,300","27,527","29,987",0.3%
+Category 6 - Business travel,11.430,"16,496","18,524",0.2%
+Category 7 - Employee commuting,"31,988","35,177","36,401",0.3%
+Category 8 - Upstream leased assets,"44,147",42.493,"22,990",0.2%
+Category 9 - Downstream transportation and distribution,0,0 :unselected:,0 :unselected:,0%
+Category 10 - Processing of sold products,0 :unselected:,0 :unselected:,0 :unselected:,0%
+Category 11 - Use of sold products,0 :unselected:,0 :unselected:,:unselected: 0,0%
+Category 12 - End-of-life treatment of sold products,"1,445,465","1,293,325","1,383,821",12.9%
+Category 13 - Downstream leased assets,0 :unselected:,0 :unselected:,0 :unselected:,0%
+Category 14 - Franchises,0 :unselected:,0 :unselected:,0 :unselected:,0%
+Category 15 - Investments,"42,330","39,695","39,348",0.4%
+TOTAL emissions Scopes 1+2+3,"10,240,222","9,129,625","10,726,684",1.8%
