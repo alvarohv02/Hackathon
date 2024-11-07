@@ -1,0 +1,17 @@
+0,1,2,3
+Material,Policy recognised,Location smelter/processor known,Location mine issued
+Iron ore,~ 95%,N/A,~ 98%
+Coal,~ 67%*,N/A,100%
+Tin,100%,100%,100%
+Cobalt,100%,100%,100%
+Zin,100%,100%,100%
+Ferro Manganese,100%,100%,~ 90%
+Ferro Chromium,100%,~ 60%,~ 60%
+Ferro Niobium,100%,100%,100%
+Ferro Vanadium,100%,100%,100%
+Ferro Silicon,100%,~ 60%,~ 30%
+EMM,100%,0%,0%
+Chromium (aq),100%,0%,0%
+Bentonite,100%,100%,100%
+Magnesium,100%,100%,~ 30%
+Scrap,~ 94%,100%,N/A

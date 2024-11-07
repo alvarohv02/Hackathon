@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+Themes,Accounting indicators,Category,Unit of measure,Code,Chapters/Sections,Pages
+Energy management,"(1) Total energy consumed, (2) Share of grid electricity, (3) Share of renewable energy
+:unselected: :selected: :selected:",Quantitative,"Gigajoules (GJ), Percentage (%)",TR-AP-130a.1,4.3.3,250-251
+Waste management,"(1) Total amount of industrial waste, (2) Proportion of hazardous waste, (3) Proportion of recycled waste
+:unselected: :selected:",Quantitative,"In metric tons (t), Percentage (%)",TR-AP-150a.1,4.2.2,208-212
+Product safety,"Number of customer recalls, number of products recalled",Quantitative,Number,TR-AP-250a.1,,
+Energy- efficient design,Sales derived from products contributing to energy efficiency and/or reducing greenhouse gas emissions(1),Quantitative,Euros,TR-AP-410a.1,4.3.2,243
+Purchases of raw materials,Description of the management of risks associated with the use of hazardous materials,Discussion and Analysis,n/a,TR-AP-440a.1,4.2.2,203-204 212
+,Share of products sold that are recyclable,Quantitative,Percentage (%),TR-AP-440b.1,4.3.3,253-255
+"Material
+recycling",Share of supplies containing recycled or reconditioned materials,Quantitative,Percentage (%),TR-AP-440b.2,4.3.3,253-255

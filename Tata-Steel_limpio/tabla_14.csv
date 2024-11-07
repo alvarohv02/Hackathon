@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+Key Performance Indicator,Units,CY2019,CY2020,CY2021,CY2022
+,,,,,
+Waste (1),,,,,
+Waste,"1,000 tonnes",218,201,170,211
+"Waste - material reused, recycled by third parties","1,000 tonnes",170,159,127,151
+Waste - material sent to landfills,"1,000 tonnes",42,36,38,52
+Waste - utilisation,%,78.3,79.1,74.7,71.6
+Waste (2),,,,,
+Waste,"1,000 tonnes",58,64,73,82
+"Waste - material reused, recycled by third parties","1,000 tonnes",55,60,69,80
+Waste - material sent to landfills,"1,000 tonnes",0.44,0.58,0.66,0.8
+Waste - utilisation,%,95%,94%,96%,98%
+Emission to water (1),,,,,
+"Mass emissions into water, hydrocarbons",tonnes,1.4,1.7,1.1,1.2
+"Mass emissions into water, suspended solids",tonnes,285,302,203,259
+"Mass emissions into water, COD",tonnes,557,584,532,599
+Emission to water (2),,,,,
+"Mass emissions into water, hydrocarbons (6)",tonnes,0.3,0.1,0.4,0.6
+"Mass emissions into water, suspended solids (7)",tonnes,1.8,1.6,2.1,2.1
+"Mass emissions into water, COD (8)",tonnes,15.3,9.9,12.2,10.3
