@@ -60,44 +60,6 @@ from openpyxl import load_workbook
 # Creamos una lista para almacenar DataFrames de cada tabla
 dataframes = []
 
-# # Recorremos cada tabla en el resultado
-# for table_idx, table in enumerate(result.tables):
-#     print(f"Procesando la Tabla #{table_idx} con {table.row_count} filas y {table.column_count} columnas")
-    
-#     # Inicializamos una lista para almacenar las filas de la tabla
-#     rows = [[] for _ in range(table.row_count)]
-    
-#     # Recorremos las celdas de la tabla para llenar las filas y columnas
-#     for cell in table.cells:
-#         # Añadimos el contenido de la celda en su posición de fila y columna
-#         rows[cell.row_index].append(cell.content)
-    
-#     # Convertimos la lista de filas a un DataFrame
-#     df = pd.DataFrame(rows)
-#     dataframes.append(df)  # Agregamos el DataFrame a la lista de tablas
-    
-#     # Opcional: Mostrar el DataFrame de la tabla
-#     print(f"DataFrame de la Tabla #{table_idx}:\n{df}\n")
-
-# # Si necesitas acceder a cada DataFrame de forma independiente:
-# # dataframes[0], dataframes[1], etc.
-
-# # Si quieres combinar todas las tablas en un solo DataFrame (solo si tienen las mismas columnas):
-# # combined_df = pd.concat(dataframes, ignore_index=True)
-
-# # Guardar cada DataFrame en un archivo CSV
-# for idx, df in enumerate(dataframes):
-#     # Definimos el nombre del archivo para cada tabla
-#     filename = f"tabla_{idx}.csv"
-    
-#     # Guardamos el DataFrame como CSV
-#     df.to_csv(filename, index=False)
-    
-#     print(f"DataFrame de la Tabla #{idx} guardado como {filename}")
-
-# Lista para almacenar DataFrames de cada tabla
-dataframes = []
-
 # Recorremos cada tabla en el resultado
 for table_idx, table in enumerate(result.tables):
     print(f"Procesando la Tabla #{table_idx} con {table.row_count} filas y {table.column_count} columnas")
@@ -107,7 +69,11 @@ for table_idx, table in enumerate(result.tables):
     
     # Recorremos las celdas de la tabla y colocamos el contenido en la posición correcta
     for cell in table.cells:
-        table_data[cell.row_index][cell.column_index] = cell.content
+        # Concatenamos el contenido de las celdas en la misma posición
+        if table_data[cell.row_index][cell.column_index]:
+            table_data[cell.row_index][cell.column_index] += ' ' + cell.content
+        else:
+            table_data[cell.row_index][cell.column_index] = cell.content
     
     # Convertimos la matriz en un DataFrame
     df = pd.DataFrame(table_data)
