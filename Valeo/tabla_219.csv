@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6
+Type,"Outstanding at December 31, 2023 (in millions of euros)",Issuance,Maturity,Nominal amount outstanding (in millions of euros),Currency,Nominal interest rate
+BONDS,,,,,,
+EMTN program,699,January 2014,January 2024,700,EUR,3.25%
+EMTN program,599,June 2018,June 2025,600,EUR,1.50%
+EMTN program,598,March 2016,March 2026,600,EUR,1.625%
+EMTN program(1),697,July 2021,August 2028,700,EUR,1.00%
+EMTN program(1)(2),747,November 2022,May 2027,750,EUR,5.375%
+EMTN program,596,October 2023,April 2029,600,EUR,5.875%
+SCHULDSCHEIN LOAN ISSUED IN 2019,,,,,,
+Tranche 3,90,April 2019,April 2025,90,EUR,1.291%
+Tranche 4(3),122,April 2019,April 2025,122,EUR,6-month Euribor + 1.15%
+SCHULDSCHEIN LOAN ISSUED IN 2022,,,,,,
+Tranche 1,30,October 2022,October 2025,30,EUR,4.95%
+Tranche 2,148,October 2022,October 2025,149,EUR,6-month Euribor + 1.90%
+Tranche 3(1),30,October 2022,October 2027,30,EUR,5.251%
+Tranche 4(1),52,October 2022,October 2027,52,EUR,6-month Euribor + 2.10%
+Tranche 5(1),30,December 2022,October 2027,30,EUR,6-month Euribor + 2.10%
+Tranche 6(1),5,October 2022,October 2029,5,EUR,5.503%
+Tranche 7(1),45,December 2022,October 2029,45,EUR,6-month Euribor + 2.30%
+EUROPEAN INVESTMENT BANK (EIB) LOAN,,,,,,
+Tranche 1(4),296,June 2021,June 2029,300,EUR,0.885%
+Tranche 2(5),291,February 2022,February 2030,300,EUR,1.083%
+OTHER,,,,,,
+Lease liabilities,581,—,—,581,—,—
+Bilateral bank loans,250,—,—,250,—,—
+Other long-term debt(6),108,—,—,108,—,—
+LONG-TERM DEBT,"6,014",,,,,

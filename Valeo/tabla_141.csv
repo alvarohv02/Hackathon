@@ -1,0 +1,43 @@
+0,1,2,3
+(in millions of euros),Notes,2023,2022
+CASH FLOWS FROM OPERATING ACTIVITIES,,,
+Net income for the year,,300,295
+Share in net earnings of equity-accounted companies,4.5.3.1,(17),(115)
+Net dividends received from equity-accounted companies,,14,16
+Expenses (income) with no cash effect,11.1,"1,715","1,427"
+Cost of net debt,8.2,243,131
+Income taxes (current and deferred),9.1.1,154,214
+GROSS OPERATING CASH FLOWS,,"2,409","1,968"
+Income taxes paid,,(225),(291)
+Changes in working capital,11.2,278,231
+NET CASH FLOWS FROM OPERATING ACTIVITIES,,"2,462","1,908"
+CASH FLOWS FROM INVESTING ACTIVITIES,,,
+Acquisitions of intangible assets,,"(1,037)",(682)
+"Acquisitions of property, plant and equipment",,(964),(807)
+Investment subsidies and grants received,,36,50
+"Disposals of intangible assets and property, plant and equipment",,40,30
+Net change in non-current financial assets,11.3,(11),(166)
+"Acquisitions of investments with gain of control, net of cash acquired",11.4,—,(352)
+Acquisitions of investments in equity-accounted companies and/or joint ventures,,(8),—
+"Disposals of investments with loss of control, net of cash transferred",11.5,38,—
+NET CASH FLOWS USED IN INVESTING ACTIVITIES,,"(1,906)","(1,927)"
+CASH FLOWS FROM FINANCING ACTIVITIES,,,
+Dividends paid to owners of the Company,,(92),(84)
+Dividends paid to non-controlling interests in consolidated subsidiaries,,(35),(59)
+Capital increase,10.1.1,16,14
+Sale (purchase) of treasury stock,10.1.1.3,—,(50)
+Issuance of long-term debt,11.6,748,"1,474"
+Interest paid,,(261),(154)
+Interest received,,52,54
+Repayment of long-term debt,11.6,(975),(744)
+Change in short-term financing,8.1.2.3,(239),411
+Acquisitions of investments without gain of control,,(2),—
+NET CASH FLOWS FROM (USED IN) FINANCING ACTIVITIES,,(788),862
+CASH AND CASH EQUIVALENTS RELATING TO OPERATIONS HELD FOR SALE,2.2.2,(14),(2)
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS,,(116),(4)
+NET CHANGE IN CASH AND CASH EQUIVALENTS,,(362),837
+NET CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR,,"3,252","2,415"
+NET CASH AND CASH EQUIVALENTS AT END OF YEAR,,"2,890","3,252"
+Of which:,,,
+· Cash and cash equivalents,8.1.3.2,"3,025","3,329"
+· Bank overdrafts,8.1.2.3,(135),(77)

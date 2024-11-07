@@ -1,0 +1,32 @@
+0,1,2,3
+(in millions of euros),Notes,2023,2022
+CASH FLOWS FROM OPERATING ACTIVITIES,,,
+Net income for the year,,194,203
+Expenses (income) with no cash effect:,,,
+· depreciation and amortization/deferred charges,,14,14
+· net additions to impairment and provisions,,(23),(26)
+· other expenses (income) with no cash effect,,(5),(11)
+GROSS OPERATING CASH FLOWS,,180,180
+Changes in working capital:,,,
+· operating receivables,,(5),(9)
+· operating payables,,12,(4)
+· other receivables and payables,,17,(17)
+NET CASH FROM (USED IN) OPERATING ACTIVITIES,,204,150
+CASH FLOWS FROM INVESTING ACTIVITIES,,,
+"Acquisitions, asset and liability transfer and capital increases in long- term financial assets",5.2,(36),(212)
+Change in loans and advances to subsidiaries and affiliates,5.2,784,153
+Disposals and capital decreases in long-term financial assets,5.2,—,—
+NET CASH FROM (USED IN) INVESTING ACTIVITIES,,748,(59)
+NET CASH GENERATED (USED) BEFORE FINANCING ACTVITIES,,952,91
+CASH FLOWS FROM FINANCING ACTIVITIES,,,
+Dividends paid,9.4,(92),(84)
+Change in share capital:,,,
+· issuance of shares paid up in cash,9.4,16,14
+Change in long-term debt:,,—,—
+· issuance of long-term debt,6.1.3,750,"1,491"
+· repayment of long-term debt,6.1.3,(836),(600)
+Change in short-term debt,6.1.4,(310),394
+NET CASH FROM (USED IN) FINANCING ACTIVITIES,,(472),"1,215"
+NET CHANGE IN CASH AND CASH EQUIVALENTS,,480,"1,306"
+Net cash and cash equivalents at beginning of year,6.1.2,"3,031","1,725"
+Net cash and cash equivalents at end of year,6.1.2,"3,511","3,031"

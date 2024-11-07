@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Plants,Research centers,Development centers,Distribution platforms,Number of employees registered
+WESTERN EUROPE,,,,,
+"Belgium, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Spain, United Kingdom",46,16,10,5,"28,356"
+CENTRAL AND EASTERN EUROPE,,,,,
+"Czech Republic, Hungary, Poland, Romania, Russia(1), Slovakia, Turkey",20,0,7,3,"18,739"
+AFRICA,,,,,
+"Egypt, Morocco, South Africa, Tunisia",9,0,1,0,"8,135"
+NORTH AMERICA,,,,,
+"Canada, Mexico, United States",23,0,6,2,"17,199"
+SOUTH AMERICA,,,,,
+"Argentina, Brazil",5,0,2,1,"2,132"
+"ASIA, MIDDLE EAST & OCEANIA",,,,,
+"China, India, Indonesia, Japan, Malaysia, South Korea, Thailand, Australia",72,3,21,9,"38,179"
+TOTAL,175,19,47,20,"112,740"

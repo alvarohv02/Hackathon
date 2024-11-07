@@ -1,0 +1,50 @@
+0,1,2,3
+(in millions of euros),Notes,"December 31, 2023","December 31, 2022"
+ASSETS,,,
+Goodwill,6.1,"3,112","3,245"
+Other intangible assets,6.2,"3,057","2,774"
+"Property, plant and equipment",6.3,"5,065","5,309"
+Investments in equity-accounted companies,4.5.3.2,110,110
+Other non-current financial assets,8.1.5,392,483
+Assets relating to pensions and other employee benefits,5.3,45,49
+Deferred tax assets,9.2,603,555
+NON-CURRENT ASSETS,,"12,384","12,525"
+"Inventories, net",4.4,"2,365","2,383"
+"Accounts and notes receivable, net",4.2,"2,734","2,759"
+Other current assets,,852,829
+Taxes receivable,,33,30
+Other current financial assets,8.1.1.1,138,96
+Cash and cash equivalents,8.1.3.2,"3,025","3,329"
+Assets held for sale,2.2.2,225,78
+CURRENT ASSETS,,"9,372","9,504"
+TOTAL ASSETS,,"21,756","22,029"
+EQUITY AND LIABILITIES,,,
+Share capital,10.1.1,245,244
+Additional paid-in capital,10.1.1,"1,588","1,573"
+Translation adjustment,10.1.2,(163),175
+Retained earnings,,"1,905","1,830"
+STOCKHOLDERS' EQUITY,,"3,575","3,822"
+Non-controlling interests,10.1.3,785,790
+STOCKHOLDERS' EQUITY INCLUDING NON-CONTROLLING INTERESTS,,"4,360","4,612"
+Provisions for pensions and other employee benefits - long-term portion,5.3,819,747
+Other provisions - long-term portion,7.1,486,682
+Subsidies and grants - long-term portion,,139,120
+Long-term portion of long-term debt,8.1.2,"5,057","5,074"
+Liabilities associated with put options granted to holders of non-controlling interests - long-term portion,8.1.2.2,—,7
+Other financial liabilities - long-term portion,8.1.4,1,35
+Deferred tax liabilities,9.2,46,58
+NON-CURRENT LIABILITIES,,"6,548","6,723"
+Provisions for pensions and other employee benefits - current portion,5.3,79,77
+Other provisions - current portion,7.1,502,494
+Accounts and notes payable,8.1.6,"5,449","5,586"
+Other current liabilities,,"2,462","1,986"
+Subsidies and grants - current portion,,63,68
+Taxes payable,,112,103
+Current portion of long-term debt,8.1.2,957,"1,029"
+Liabilities associated with put options granted to holders of non-controlling interests - current portion,8.1.2.2,—,5
+Other financial liabilities - current portion,8.1.4,59,42
+Short-term financing,8.1.2.3,922,"1,162"
+Bank overdrafts,8.1.2.3,135,77
+Liabilities held for sale,2.2.2,108,65
+CURRENT LIABILITIES,,"10,848","10,694"
+TOTAL EQUITY AND LIABILITIES,,"21,756","22,029"

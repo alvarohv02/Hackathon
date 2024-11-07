@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+(in millions of euros),"December 31, 2023",,,,,"December 31, 2022"
+,USD,JPY,EUR,Other currencies,Total,Total
+Accounts and notes receivable,362,29,584,34,"1,009",809
+Other financial assets,199,39,223,"1,220","1,681","1,404"
+Accounts and notes payable,(413),(62),(810),(106),"(1,391)","(1,387)"
+Long-term debt,(903),(163),(178),"(1,463)","(2,707)","(2,064)"
+GROSS EXPOSURE,(755),(157),(181),(315),"(1,408)","(1,238)"
+Forward sales,(140),(87),(112),"(1,243)","(1,582)","(1,235)"
+Forward purchases,937,229,186,"1,409","2,761","2,164"
+NET EXPOSURE,42,(15),(107),(149),(229),(309)

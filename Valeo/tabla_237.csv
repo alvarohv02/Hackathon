@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9
+(in millions of euros),Less than 1 year,,1 to 5 years,,More than 5 years,,Total nominal amount,,
+,Fixed portion,Variable portion,Fixed portion,Variable portion,Fixed portion,Variable portion,Fixed portion,Variable portion,Total
+Financial liabilities,"2,010",6,"3,485",603,950,45,"6,445",654,"7,099"
+Loans,"—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected: :unselected:","—
+:unselected: :unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected:"
+Accrued interest,"(26)
+:selected:","—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected: :unselected:","—
+:unselected:","(26)
+:selected:","—
+:unselected:",(26)
+Cash and cash equivalents,"(2,671)",(354),"—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected: :unselected:","(2,671)",(354),"(3,025)"
+NET POSITION BEFORE HEDGING,(687),(348),"3,485",603,950,45,"3,748",300,"4,048"
+Derivative instruments,"—
+:unselected:","—
+:unselected:","(477)
+:selected:",477,"—
+:unselected:","—
+:unselected:",(477),477,—
+NET POSITION AFTER HEDGING,(687),(348),"3,008","1,080",950,45,"3,271",777,"4,048"

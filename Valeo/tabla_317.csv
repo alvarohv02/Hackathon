@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7
+Shareholder,Date of notification(1),Effective date(1),Number of Valeo shares held(1),Percentage of capital reported(1),Number of voting rights held(1),Percentage of theoretical voting rights reported(1),Threshold crossed/ Increase or decrease(1)
+Caisse des Dépôts et Consignations including Bpifrance Participations(2),05/05/2023,05/02/2023,"15,712,193 12,600,000",6.45% 5.17%,10.78% 9.60%,10% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",05/16/2023,05/15/2023,"13,025,673",5.35%,4.96%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",05/22/2023,05/19/2023,"13,214,742",5.43%,5.03%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",05/23/2023,05/22/2023,"13,012,871",5.34%,4.96%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",06/07/2023,06/06/2023,"13,200,557",5.42%,5.03%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",06/12/2023,06/09/2023,"13,124,288",5.39%,4.99%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",06/14/2023,06/12/2023,"13,168,992",5.41%,5.01%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",06/16/2023,06/15/2023,"12,921,769",5.31%,4.92%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",06/19/2023,06/16/2023,"13,357,408",5.49%,5.09%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",06/20/2023,06/19/2023,"13,009,729",5.34%,4.95%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",06/22/2023,06/21/2023,"13,134,691",5.39%,5.002%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",10/23/2023,10/20/2023,"13,132,602",5.39%,4.99%,5% of voting rights,"↘
+:selected:"
+"BlackRock, Inc.",10/27/2023,10/26/2023,"13,147,549",5.40%,5.004%,5% of voting rights,"↗
+:selected:"
+"BlackRock, Inc.",12/01/2023,11/30/2023,"7,668,211",3.15%,2.92%,5% of share capital and voting rights,"↘
+:selected:"
+UBS Group AG,12/06/2023,11/30/2023,"13,456,300",5.50%,5.10%,5% of share capital and voting rights,"↗
+:selected:"
+UBS Group AG,12/07/2023,12/01/2023,N/A,N/A,"N/A
+:selected:",5% of share capital and voting rights,"↘
+:selected:"
+Dassault Group,12/19/2023,12/14/2023,0,"- %
+:unselected:","- %
+:unselected:",5% of share capital,"↘
+:selected:"
+SITAM Belgique (3),12/19/2023,12/14/2023,"13,083,494",5.35%,4.96%,5% of share capital,"↗
+:selected:"
+SITAM Belgique (3),12/21/2023,12/20/2023,"13,228,994",5.41%,5.01%,5% of voting rights,"↗
+:selected:"

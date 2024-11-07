@@ -1,0 +1,52 @@
+0,1,2,3,4,5,6,7,8,9,10
+(in millions of euros),"Accounting
+classification","purchase
+Nominal
+price(1)","price(1)
+Nominal
+sale","reserves
+OCI",Other financial assets,,Other financial liabilities,,"December 31, 2023","December 31, 2022"
+,,,,,"current
+Non-",Current,"current
+Non-",Current,Total,Total
+Forward foreign currency contracts,Cash flow hedge,"1,006",(291),92,24,76,—,(7),93,81
+Forward foreign currency contracts,Trading,358,(439),"—
+:unselected:","—
+:unselected:",3,—,(8),(5),(7)
+OPERATING FOREIGN CURRENCY DERIVATIVES,,"1,364",(730),92,24,79,—,(15),88,74
+Swaps,Trading,"1,311","(1,311)","—
+:unselected:",2,26,(1),(35),(8),20
+Forward foreign currency contracts,Trading,195,(63),"—
+:unselected:","—
+:unselected:",3,—,(2),1,—
+Cross-currency swaps,Trading,182,(182),"—
+:unselected:","—
+:unselected:",—,—,"(6)
+:selected:",(6),(8)
+FINANCIAL FOREIGN CURRENCY DERIVATIVES,,"1,688","(1,556)",—,2,29,(1),(43),(13),12
+Swaps,Cash flow hedge,192,(3),3,—,4,—,(1),3,(1)
+COMMODITY DERIVATIVES,,192,(3),3,—,"4
+:selected:",—,"(1)
+:selected:",3,(1)
+Swaps,Cash flow hedge,123,(123),5,5,—,—,—,5,10
+Swaps,Fair value hedge,600,(600),"—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected:",—,—,(15)
+Cross-currency swaps,Cash flow hedge,159,(159),—,"—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected:",—,3
+Cross-currency swaps,Trading,23,"(23)
+:selected:","—
+:unselected:","—
+:unselected:","—
+:unselected:","—
+:unselected:",—,—,(1)
+INTEREST RATE DERIVATIVES,,905,(905),5,"5
+:selected:","—
+:unselected:","—
+:unselected:",—,5,(3)
+TOTAL DERIVATIVE FINANCIAL INSTRUMENTS,,,,,31,112,(1),(59),83,82
