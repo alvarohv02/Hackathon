@@ -1,0 +1,63 @@
+0,1,2,3,4,5,6
+,Plant name,Year,Water stressed areas according to Aqueduct Risk Atlas,,Total water withdrawn,Total water discharge
+,,,high,extremely high,m3,m3
+North America,Saltillo Complex - Assembly Plant,2023,,"X
+:selected:","432,343",-
+,,2022,,"x
+:selected:","480,870",-
+,,2021,,"x
+:selected:","514,793",-
+,Saltillo North Engine Plant,2023,,"X
+:selected:","206,799",-
+,,2022,,"x
+:selected:","202,753",-
+,,2021,,"x
+:selected:","168,137","1,200"
+,Saltillo South Engine Plant,2023,,"X
+:selected:","88,328",-
+,,2022,,"x
+:selected:","89,906",-
+,,2021,,"x
+:selected:","89,238",-
+,Saltillo Van Assembly Plant,2023,,"X
+:selected:","176,707",-
+,,2022,,"x
+:selected:","159,139",-
+,,2021,,"x
+:selected:","168,704",-
+,Teksid Hierro de Mexico Plant,2023,,plant sold in 2023,,
+,,2022,,"x
+:selected:","96,367",-
+,,2021,,"x
+:selected:","100,399",-
+,Toluca Complex - Assembly Plant,2023,,"X
+:selected:","188,101","69,597"
+,,2022,:unselected:,x,"199,008","99,599"
+,,2021,:unselected:,x,"235,166","90,221"
+Middle East & Africa,PCMA Bursa,2023,"X
+:selected:",,"3,969","3,442"
+,,2022,"x
+:selected:",,"5,225","4,812"
+,,2021,"x
+:selected:",:unselected:,"3,306","2,777"
+,PCMA Bursa Mechanical Control Systems,2023,"X
+:selected:",:unselected:,"2,293","1,982"
+,,2022,"x
+:selected:",:unselected:,"1,602","1,485"
+,,2021,"x
+:selected:",:unselected:,"1,043",991
+China and India & Asia Pacific,Hosur,2023,,"X
+:selected:","19,469",-
+,,2022,,"x
+:selected:","20,259","20,258"
+,,2021,,"x
+:selected:","19,107","14,489"
+,Thiruvallur,2023,,"X
+:selected:","78,061","8,861"
+,,2022,:unselected:,"x
+:selected:","40,872","40,651"
+,,2021,,"x
+:selected:","16,624",NA
+Total,,2023,8,24,"7,265,156","4,285,859"
+,,2022,8,27,"7,361,455","4,849,230"
+,,2021,8,28,"7,243,488","5,093,16025"

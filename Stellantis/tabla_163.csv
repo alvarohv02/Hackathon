@@ -1,0 +1,8 @@
+0,1
+Impact type,Impact description
+Impact on air,"Global warming potential in kg CO2-eq: characterizes the average increase in greenhouse gases emissions that contribute to global warming (CO2, CH4, N2O, etc.)."
+,"Acidification potential in kg SO,-eq: characterizes the increase in the content of acidifying substances that cause acid rain and decay of some forests (SO2, etc.)."
+,"Photochemical ozone creation potential in kg ethene eq .: characterizes the phenomena leading to the formation of ozone which have harmful effects on human health and on ecosystems (VOCs, etc.)."
+Impact on water,"Eutrophication potential in kg phosphate eq .: characterizes the introduction of nutrients such as nitrogen and phosphate compounds that promote the growth of certain algae (NO2, etc.)."
+Impact on natural,Potential for the depletion of natural mineral resources in kg antimony eq. (Sb): aims to measure the extraction of mineral resources considered to be non-renewable regarding their reserves on Earth
+resources,Potential for the depletion of fossil resources in megajoules (MJ): aims to measure the extraction of fossil fuels regarding their reserves on Earth.
