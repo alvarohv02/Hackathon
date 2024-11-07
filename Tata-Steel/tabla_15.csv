@@ -1,0 +1,56 @@
+0,1,2,3,4,5
+Key Performance Indicator,Units,FY19/20,FY20/21,FY21/22,FY22/23
+Social,,,,,
+Safety,,,,,
+Fatalities - Employees,#,0,0,0,0
+Fatalities - Contractor personnel,#,0,0,0,0
+Fatalities - Total,#,0,0,0,0
+Lost Time Injury (LTI) - Employees,#,18,17,19,13
+Lost Time Injury (LTI) - Contractor personnel,#,13,9,8,13
+Lost Time Injury (LTI) - Total,#,31,26,"27
+:selected:",26
+Lost Time Injury Frequency Rate - Employees,Index,0.9,0.93,1.01,0.72
+Lost Time Injury Frequency Rate - Contractor personnel,Index,3.31,2.81,2.36,2.5
+Lost Time Injury Frequency Rate - Total,Index,1.40,1.21,"1.21
+:selected:",1.12
+Recordables (employees),#,71,71,"74
+:selected:",74
+Recordables (contractors),#,46,36,41,55
+Recordables (total),#,117,107,115,129
+Total Recordable Injury Frequency Rate - Employees,Index,3.90,3.88,3.93,4.11
+Total Recordable Injury Frequency Rate - Contractor personnel,Index,11.68,11.20,12.10,10.60
+Total Recordable Injury Frequency Rate - Total,Index,5.26,4.97,5.17,5.57
+Sites with ISO45001,#,6,7,9,9
+Sites with ISO45001 as a percentage of all TSN sites,%,24,"28
+:selected:",36,36
+Human Resources Management (4),,,,,
+Number of employees,#,"11,669","11,480","11,608","12,299"
+Number of female employees,#,"1,284","1,252","1,249","1,265"
+Percentage of female employees,%,11.0,10.9,10.8,11.0
+Number of permanent employees by gender,#M/#F,"9,999/1,214","9,853/1,198","9,777/1,188","10,245/1,265"
+Number of agency employees by gender,#M/#F/#not recorded,386/70,375/54,582/61,718/41/101
+Number of full-time employees by gender,#M/#F,"9,359/659","9,216/656","9,315/654","9,717/775"
+Number of part-time employees by gender,#M/#F,"1,021/624","1,012/596","1,044/595","1,197/610"
+Number of new employees by gender,#M/#F/#not recorded,404/59/0,372/39/0,523/46/46,935/173/0
+New female employees as a percentage of the total,%,12.7,9.4,7.5,15.6
+Total labour costs,€ million,"1,049","1,034","1,200","1,156"
+Employee productivity (steel volume) - IJmuiden site tonnes,of liquid steel/employee/year,768,708,739,677
+Turnover rate,%,2.2,2.8,3.1,4.1
+Turnover of female employees,%,3.5,3.5,4.9,4.6
+Average age,#,46.3,46.2,45.9,46.0
+Employees aged over 50 (i.e. 51 and above),#,"5,332","5,212","5,138","5,366"
+Employees aged between 30 and 50 (i.e. 30-50),#,"4,849","4,840","4,945","5,346"
+Employees under the age of 30 (i.e. 29 and under),#,"1,476","1,428","1,525","1,532"
+Age distribution of the workforce (>50),%,46,45,44,44
+Age distribution of the workforce (30-50),%,42,42,43,44
+Age distribution of the workforce (<30),9%,13,13,13,12
+Percentage of female managers,96,8.6,8.3,8.0,
+Percentage of female TSN Board members,%,,,14,14
+Employees who are members of a trade union (1),#,"4,339","4,759","4,585","4,466"
+Percentage of employees who are members of a trade union (1),%,48.4,54.3,51.6,48.3
+Percentage of employees who are covered by a collective agreement (1),%,98.0,98.0,98.1,98.3
+Number of hours of training (1),hours,"94,524","49,235","78,836","106,249"
+Number of hours training per employee (1),hours/employee,10.0,5.0,8,11
+% of staff that have had performance reviews (1),%,88.,88.5,97.8,97.4
+Sickness absence rate,%,4.9,4.8,5.4,5.7
+Annual total compensation for the organization's highest-paid individual to the median annual total compensation for all employees (5),ratio,,,,7.6

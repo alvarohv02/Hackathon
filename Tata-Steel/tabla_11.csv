@@ -1,0 +1,45 @@
+0,1,2,3,4,5
+Key Performance Indicator,Units,FY19/20,FY20/21,FY21/22,FY22/23
+Basic Information,,,,,
+Crude Steel production,million tonnes,6.62,6.07,5.45,6.16
+Liquid Steel production,million tonnes,6.78,6.21,6.61,6.33
+Environmental,,,,,
+TSIJ GHG emissions (based on worldsteel user guide V9.5) (1),,,,,
+"CO, eq. emissions - Total (ws scope 1+2+3) (3,4)",million tonnes,11.62,10.77,11.48,10.95
+CO2 emission intensity (ws scope 1+2+3) (3),tCO /tonnes of crude steel,1.76,1.77,1.78,1.78
+TSN GHG emissions (based on worldsteel user guide V9.5),,,,,
+"CO2 eq. emissions - Total (ws scope 1) (3,4)",million tonnes,11.82,10.88,11.55,11.03
+"CO2 eq. emissions - Total (ws scope 2) (3,4)",million tonnes,-0.13,-0.06,-0.10,-0.21
+"CO2 eq. emissions - Total (ws scope 3) (3,4)",million tonnes,0.16,0.17,0.27,0.36
+"CO2 eq. emissions - Total (ws scope 1+2+3) (3,4)",million tonnes,11.85,11.00,11.72,11.17
+CO2 emission (for all entities) - (ws Scope 1+2+3) per unit revenue,kg CO2/€,2.42,2.4,1.64,1.50
+TSN GHG emissions (based on Green House Gas protocol),,,,,
+Absolute CO2 eq. emissions - Scope 1,million tonnes,,,,11.2
+Absolute CO2 eq. emissions - Scope 2,million tonnes,,,,0.03
+Absolute CO2 eq. emissions - Scope 3,million tonnes,,,,3.8
+Total absolute CO2 eq. emissions (Scope 1 +2 + 3),million tonnes,,,,15.0
+Energy (1),,,,,
+Total electricity consumption (5),PJ,7.50,7.50,7.87,7.13
+Total self-generation of non renewable electricity (6),PJ,9.85,9.30,10.92,10.95
+Total on-site renewable electricity generation,PJ,,,0.01,0.0
+Total use of renewable electricity (inc. REGOs),PJ,0,0,0,0.0
+Renewable energy in relation to total electricity consumption,%,0,"0
+:unselected:","0
+:unselected:",0
+Energy intensity (3),GJ/tonnes of crude steel,19.79,20.22,20.32,19.74
+Energy (7),,,,,
+Total electricity consumption,PJ,0.46,0.46,0.51,0.48
+Total self-generation of non renewable electricity,PJ,0.00,0.00,0.00,0.00
+Total on-site renewable electricity generation,PJ,0.00,0.00,0.00,0.01
+Total use of renewable electricity (inc. REGOs),PJ,0.00,0.09,0.09,0.11
+Renewable energy in relation to total electricity consumption,96,0.00,0.19,0.18,0.24
+Raw materials,,,,,
+Iron ore consumption for iron / steelmaking (9),million tonnes,8.83,8.31,8.56,8.19
+Specific iron ore consumption,t/tonnes of crude steel,1.33,1.37,1.33,1.33
+Coal and purchased coke consumption (inc. coking coal and injection),million tonnes,4.19,3.91,4.06,3.90
+Specific coal consumption,t/tonnes of crude steel,0.63,0.64,0.63,0.63
+Scrap consumption (internal and external),million tonnes,1.15,1.02,1.14,1.08
+"Total raw material consumption (iron ore, scrap plus coal/coke)",million tonnes,14.18,13.23,13.76,13.17
+Specific raw material consumption,t/tonnes of crude steel,2.14,2.18,2.13,2.14
+Management,,,,,
+Share of TSN staff and contractors working at ISO14001-certified locations,%,100,100,100,100
