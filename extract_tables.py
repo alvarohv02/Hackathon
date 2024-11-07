@@ -7,7 +7,7 @@ endpoint = "https://westeurope.api.cognitive.microsoft.com/"
 key = "778cd3003d86499e82d67db670bbbc36"
 
 # sample document
-formUrl = "https://www.forvia.com/sites/default/files/2024-03/FORVIA_%202023_Sustainability%20Report_WEB.pdf"
+formUrl = "https://www.magna.com/docs/default-source/financial-reports-public-filings/tax-other-reports/101188_magna_sustainabilityreport_fy2023_final_aoda.pdf?sfvrsn=47c73834_11"
 
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 

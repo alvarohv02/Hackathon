@@ -1,0 +1,7 @@
+0,1,2,3
+Category,Flood Probability,Number of Locations,Proportion of TIV within 5 km Radius
+50 year,1 in 50 (2%) chance of occurring in a year,22,1.5%
+100 year,1 in 100 (1%) chance of occurring in a year,68,10.8%
+200 year,1 in 200 (0.5%) chance of occurring in a year,103,12.1%
+500 year,1 in 500 (0.2%) chance of occurring in a year,36,2.7%
+Outside,Outside recognized flood zones,522,73.0%
