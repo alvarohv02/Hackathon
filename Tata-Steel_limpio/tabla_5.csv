@@ -1,0 +1,23 @@
+0,1
+,tonnes of CO2e
+TSN Scope 1 & 2,
+Production location IJmuiden,"5,602,814"
+Via Vattenfall,"5,456,777"
+Linde,7
+DE (scope 1),"100,514"
+DE (scope 2),"37,805"
+Total TSN Upstream 1 & 2 (74%),"11,197,915"
+TSN Upstream Scope 3,
+Purchased goods and services (including coal and ores),"2,249,415"
+Transport raw materials to IJmuiden,"386,960"
+Investing in new installations,"333,262"
+Fuel and energy-related activities,"120,189"
+Waste processing,"27,112"
+Employees commuting,"13,000"
+Total TSN Upstream Scope 3 (21%),"3,130,938"
+TSN Downstream Scope 3,
+Processing of products by customers,"469,216"
+Transport to customers,"108,700"
+Processing of the product at the end of their service life,"105,240"
+Business travel,"1,000"
+Total TSN Downstream Scope 3 (5%),"684,156"

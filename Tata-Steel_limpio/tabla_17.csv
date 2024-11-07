@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+,Number of employees (head count),Number of permanent employees (head count),Number of non-guaranteed hours employees (head count) i.e. temporary contract,Number of full-time employees (head count) i.e. >=0.95 FTE,Number of part-time employees (head count) i.e. < 0.95 FTE
+Netherlands,"10,155","9,453",702,"8,512","1,643"
+Germany,641,591,50,593,48
+France,571,546,25,529,42
+USA,246,246,0,246,0
+Belgium,184,184,0,170,14
+Spain,155,150,5,134,21
+Switzerland,115,113,2,86,29
+Turkey,83,78,5,83,0
+Sweden,63,63,0,60,3
+Finland,43,43,0,42,1
+Norway,23,23,0,22,1
+Poland,8,8,0,8,0
+Italy,7,7,0,4,3
+Czech Republic,4,4,0,3,1
+China,1,1,0,1,0

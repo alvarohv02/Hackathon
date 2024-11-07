@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+,Section,Unit,2021,2022,2023
+WATER MANAGEMENT,,,,,
+Total water consumption,4.2.2,kcu.m,"3,491","3,319","3,027"
+Total water consumption/sales,4.2.2,cu.m/€m,204,186,148
+Water outages and restrictions,4.2.2,-,1,7,5
+ATMOSPHERIC EMISSIONS AND DISCHARGES,,,,,
+Atmospheric lead emissions,4.2.2,kg,4,7,2
+Atmospheric lead emissions/sales,4.2.2,g/€m,0.2,0.4,0.1
+Atmospheric TCE emissions,4.2.2,t,0.0,0.0,0
+Atmospheric TCE emissions/sales,4.2.2,kg/€m,0.00,0,0
+Quantity of ozone-depleting substances used,4.2.2,kg,"13,190","12,839","9,823"
+Emissions of ozone-depleting substances,4.2.2,kg eq. CFC-11,100,84,17
+Atmospheric VOC emissions(4),4.2.2,t,"1,642","1,584","1,281"
+Atmospheric VOC emissions(4)/sales,4.2.2,kg/€m,96,89,63
+Atmospheric NOx emissions,4.2.2,t,168,170,157
+Atmospheric NOx emissions/sales,4.2.2,kg/€m,9.8,9.6,7.7
+REDUCING ENERGY CONSUMPTION AND GREENHOUSE GAS EMISSIONS,,,,,
+Total energy consumption,4.2.2,GWh,"2,760","2,739","2,732"
+· Proportion of electricity,4.2.2,%,74.2,74.4,75.9
+· Proportion of natural gas,4.2.2,%,23.0,23.4,22.0
+· Proportion of fuel oil,4.2.2,%,1.4,1.5,1.2
+· Proportion of other energy sources,4.2.2,%,1.4,0.7,0.9
+Total energy consumption/sales,4.2.2,MWh/€m,161,154,133
+Direct energy consumption/sales,4.2.2,MWh/€m,40,39,31
+Indirect energy consumption/sales,4.2.2,MWh/€m,121,115,102
+Energy efficiency: expected gain,4.2.2,MWh,"33,444","61,885","58,603"
+· Scope 1,4.2.2,ktCO2eq.,193,191,186
+· Scope 2(5),4.2.2,ktCOzeq.,582,517,464
+"· Upstream Scope 3 (purchased goods and services, and transportation and distribution)(6)",4.2.2,ktCO2eq.,"8,617","8,915","8,552"
+· Downstream Scope 3 (use of sold products),4.2.2,ktCO2eq.,"36,845","35,814","36,200"
+"TOTAL GREENHOUSE GAS EMISSIONS (SCOPES 1, 2 AND 3)",4.5.3,ktCO2eq.,"46,237","45,220","45,402"
+PACKAGING,,,,,
+Packaging materials consumption,,kt,87.1,91.5,78.7
+· Proportion of plastic packaging,4.2.2,%,14.1,13.5,13.6
+· Proportion of cardboard packaging,4.2.2,%,58.2,56.6,57.3
+· Proportion of wood packaging,4.2.2,%,25.9,28.2,27.4
+· Proportion of other types of packaging,,%,1.8,1.7,1.7
+Packaging materials consumption/sales,,t/€m,5.1,5.1,3.8
