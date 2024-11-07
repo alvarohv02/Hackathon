@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+EUROPE,Country,Locations,Crude Steel,Type of plant,Products
+Unit,,,Production in 2023 (in million tonnes per year) 1,,
+ArcelorMittal Bremen2,Germany,"Bremen, Bottrop",2.9,Integrated,"Flat, Coke"
+ArcelorMittal Eisenhüttenstadt,Germany,Eisenhüttenstadt,1.9,Integrated,Flat
+ArcelorMittal Belgium3,Belgium,"Ghent, Geel, Genk, Liège",4.3,Integrated and Downstream,Flat
+ArcelorMittal France 4,France,"Dunkirk, Mardyck, Montataire, Desvres, Florange, Mouzon, Basse-Indre",3.9,Integrated and Downstream,Flat
+ArcelorMittal Méditerranée 5,France,"Fos-sur-Mer, Saint-Chély",2.4,Integrated and Downstream,Flat
+ArcelorMittal España 6,Spain,"Avilés, Gijón, Etxebarri, Lesaka, Sagunto",3.2,Integrated and Downstream,"Flat, Long/ Rails, Wire Rod, Plates"
+ArcelorMittal Avellino & Canossa,Italy,Avellino,n/a,Downstream,Flat
+ArcelorMittal Poland,Poland,"Kraków, Swietochlowice, Dabrowa Gornicza, Chorzow, Sosnowiec, Zdzieszowice",3.1,Integrated and Downstream,"Flat, Coke, Long/ Sections, Wire Rod, Sheet Piles, Rails"
+ArcelorMittal Sestao,Spain,Bilbao,0.3,Mini-mill,Flat
+Industeel,"France, Belgium","Charleroi, Le Creusot, Chateauneuf, Saint-Chamond, Dunkirk",0.4,Mini-mill and Downstream,Flat
+ArcelorMittal Belval & Differdange,Luxembourg,"Esch-Belval, Differdange, Rodange",1.9,Mini-mill,"Long/ Sheet Piles, Rails, Sections & Special Sections"
+ArcelorMittal Olaberria- Bergara,Spain,"Olaberría, Bergara",1.0,Mini-mill,Long/ Sections
+ArcelorMittal Gandrange,France,Gandrange,n/a,Downstream,"Long/ Wire Rod, Bars"
+ArcelorMittal Warszawa,Poland,Warsaw,0.5,Mini-mill,Long/ Bars
+ArcelorMittal Hamburg,Germany,Hamburg,0.7,Mini-mill,Long/ Wire Rods
+ArcelorMittal Duisburg,Germany,"Ruhrort, Hochfeld",1.0,Integrated,"Long/ Billets, Wire Rod"
+ArcelorMittal Hunedoara,Romania,Hunedoara,0.2,Mini-mill,Long/ Sections
+Sonasid,Morocco,"Nador, Jorf Lasfar",0.6,Mini-mill,"Long/ Wire Rod, Bars, Rebars in Coil"
+ArcelorMittal Zenica,Bosnia and Herzegovina,Zenica,0.6,Mini-mill / Integrated,"Long/ Wire Rod, Bars"
+ArcelorMittal Tubular Products Roman SA,Romania,Roman,n/a,Downstream,Pipes and Tubes
+ArcelorMittal Tubular Products Iasi SA,Romania,Iasi,n/a,Downstream,Pipes and Tubes
+ArcelorMittal Tubular Products Karvina a.s. 7,Czech Republic,Karvina,n/a,Downstream,Pipes and Tubes

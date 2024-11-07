@@ -1,0 +1,16 @@
+0,1,2,3,4
+,"December 31, 2022",,,
+,Assets,,Liabilities,
+,Notional Amount,Fair Value,Notional Amount,Fair Value
+Foreign exchange rate instruments,,,,
+Forward purchase contracts,657,58,"3,678",(19)
+Forward sale contracts,"1,478",38,753,(6)
+Exchange option purchases,"1,462",17,"2,536",(16)
+Exchange options sales,"2,222",41,"2,055",(20)
+Total foreign exchange rate instruments,,154,,(61)
+"Raw materials (base metals), freight, energy, emission rights",,,,
+Term contracts sales,"1,128",263,316,(52)
+Term contracts purchases,"1,755","1,150",785,(306)
+Option sales/purchases,207,5,197,(5)
+"Total raw materials (base metals), freight, energy, emission rights",,"1,418",,(363)
+Total,,"1,572",,(424)

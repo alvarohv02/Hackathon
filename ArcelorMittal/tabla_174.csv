@@ -1,0 +1,27 @@
+0,1,2,3,4
+,"December 31, 2023",,,
+Hedging Instruments,Nominal amount of the hedging instrument,Assets carrying amount,Liabilities carrying amount,Line item in the statement of financial position where the hedging instrument is located
+Cash flow hedges,,,,
+Foreign exchange risk - Option/forward/swap contracts,"2,840",12,(50),Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Foreign exchange risk - Option/forward/swap contracts,"—
+:unselected:","—
+:unselected:","—
+:unselected:",Other assets/Other long-term obligations
+Price risk - Commodities forwards,"1,118",361,(70),Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Price risk - Commodities forwards,524,127,(6),Other assets/Other long-term obligations
+Price risk - Emission rights forwards,—,"—
+:unselected:","—
+:unselected:",Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Total,,500,(126),
+Current derivative assets classified as cash flow hedge,,373,,
+Other current derivative assets,,270,,
+Total current derivative assets (note 4.5),,643,,
+Non-current derivative assets classified as cash flow hedge,,127,,
+Other non-current derivative assets,,36,,
+Total non-current derivative assets (note 4.6),,163,,
+Current derivative liabilities classified as cash flow hedge,,,(120),
+Other current derivative liabilities,,,(240),
+Total current derivative liabilities (note 4.8),,,(360),
+Non-current derivative liabilities classified as cash flow hedge,,,(6),
+Other non-current derivative liabilities,,,(70),
+Total non-current derivative liabilities (note 9.2),,,(76),

@@ -1,0 +1,21 @@
+0,1,2,3,4
+Hedging Instruments,Nominal amount of the hedging instrument,Assets carrying amount,Liabilities carrying amount,Line item in the statement of financial position where the hedging instrument is located
+Cash flow hedges,,,,
+Foreign exchange risk - Option/ Forward contracts,"3,044",21,(26),Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Foreign exchange risk - Option/ Forward/Swap contracts,300,12,(3),Other assets/Other long-term obligations
+Price risk - Commodities forwards,"1,467",490,(261),Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Price risk - Commodities forwards,"1,533",816,(42),Other assets/Other long-term obligations
+Price risk - Emission rights forwards,488,53,—,Prepaid expenses and other current assets/Accrued expenses and other liabilities
+Total,,"1,392",(332),
+Current derivative assets classified as cash flow hedge,,564,,
+Other current derivative assets,,173,,
+Total current derivative assets (note 4.5),,737,,
+Non-current derivative assets classified as cash flow hedge,,828,,
+Other non-current derivative assets,,7,,
+Total non-current derivative assets (note 4.6),,835,,
+Current derivative liabilities classified as cash flow hedge,,,(287),
+Other current derivative liabilities,,,(92),
+Total current derivative liabilities (note 4.8),,,(379),
+Non-current derivative liabilities classified as cash flow hedge,,,(45),
+Other non-current derivative liabilities,,,—,
+Total non-current derivative liabilities (note 9.2),,,(45),.

@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+,"December 31, 20231",,,,
+Date traded,Date maturity /unwound,Notional,OCI gross,Deferred tax,OCI net of deferred tax
+"December, 2014","January, 2016",375,83,(24),59
+"May, 2015","March, 2020",500,11,(3),8
+"May, 2015","July, 2019",500,(16),5,(11)
+"March, 2018","June, 2018",100,8,(2),6
+"April, 2019","November, 2019",200,11,(3),8
+Total,,,97,(27),70

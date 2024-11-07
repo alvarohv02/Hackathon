@@ -1,0 +1,19 @@
+0,1,2,3,4
+,"December 31, 2023",,,
+,Assets,,Liabilities,
+,Notional Amount,Fair Value,Notional Amount,Fair Value
+Interest rate instruments,,,,
+Other interest rate instruments,221,—,453,—
+Total interest rate instruments,,—,,—
+Foreign exchange rate instruments,,,,
+Forward purchase contracts,"1,198",60,"4,114",(82)
+Forward sale contracts,"2,510",53,825,(11)
+Exchange option purchases,619,34,760,(3)
+Exchange options sales,920,19,608,(46)
+Total foreign exchange rate instruments,,166,,(142)
+"Raw materials (base metals), freight, energy, emission rights",,,,
+Term contracts sales,"1,350",373,486,(46)
+Term contracts purchases,"1,538",267,"1,235",(166)
+Options sales/purchases,18,—,—,—
+"Total raw materials (base metals), freight, energy, emission rights",,640,,(212)
+Total,,806,,(354)
