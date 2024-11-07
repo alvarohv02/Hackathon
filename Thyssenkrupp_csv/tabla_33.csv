@@ -1,0 +1,6 @@
+0,1,2,3
+RATING,,,
+,Long-term rating,Short-term rating,Outlook
+Standard & Poor's,BB,B,stable
+Moody's,Ba3,Not Prime,stable
+Fitch,BB-,B,positive
