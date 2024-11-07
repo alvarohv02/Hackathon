@@ -1,0 +1,8 @@
+0,1
+Severity/Magnitude,Probability
+:selected: Low,"Low
+:selected:"
+:selected: Medium,Medium
+:selected: High,"High
+:selected:"
+,N/A Impact considered to exist (actual) which is why probability is disregarded.
