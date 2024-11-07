@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+,,2019,2022,2023,"FORVIA
+2025","OBJECTIVES
+2027",2030
+"CO2 emissions scopes 1 and 2 (Mt CO2eq)
+:unselected:",FORVIA,1.17,0.81,"0.69 V
+:selected:",Neutrality,,
+,FORVIA SE,0.82,0.58,"0.45 V
+:selected:",,,
+"CO, intensity (tCO2eq scopes 1 & 2/ € millions of sales)
+:unselected:",FORVIA,49,34,"26 V
+:selected:",,,
+,FORVIA SE,47,34,"23 V
+:selected:",,,
+"Energy intensity of sites (MWh scopes 1 & 2/€ millions of sales)
+:selected: :selected:",FORVIA,125,104,"92 V
+:selected:",,,
+,FORVIA SE,122,99,"88
+:selected:",,,
+"Waste intensity (metric tons/€ millions of sales)
+:unselected:",FORVIA,,8.9,"8.9 V
+:selected:",-28%,-34%,
+,FORVIA SE,14.7,10.6,"10.7 V
+:selected:",,,
+"Water intensity (m3/€ millions of sales)
+:unselected:",FORVIA,174.9,126.3,120.3,,,
+,FORVIA SE,176,122.3,122,-10%*,,-30%*
