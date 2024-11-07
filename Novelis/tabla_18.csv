@@ -1,0 +1,28 @@
+0,1
+5. Related to Scope 1 emissions:,7. Related to Scope 3 emissions - Category 1: Purchased goods and services:
+"· Direct emissions from fuel sources (natural gas, propane, heavy fuel oil - residual fuel oil no. 6, kerosene and diesel):","· Purchased metal (prime and sheet ingot): - Novelis uses the 100:0 method, also known as the ""cut-off"" approach, to calculate
+:unselected:"
+"- Calculated based on monthly energy consumption data collected from third-party invoices or meters.
+:unselected:",emissions from purchased metals. Our scrap material purchased carries zero burden based on this approach. Transportation of scrap to Novelis sites is considered to be insignificant.
+"- Emission factors:
+:unselected:",
+"· United States (U.S.) Environmental Protection Agency (EPA) 2022 GHG Emission Factors Hub, Emission Factors for Greenhouse Gas Inventories, tables 1 and 2 (April 2022).","- Calculated based on metal receipts (weight) that have been validated against internal purchase orders based on delivery date, supplier advanced shipping notices and the recycled content of the metal purchased."
+6. Related to Scope 2 emissions (location-based only):,"- Primary aluminum starts with bauxite mining. Once mined, aluminum within the"
+· Purchased electricity:,"bauxite ore is chemically extracted into alumina, an aluminum oxide compound. In a second step, the alumina is smelted into pure aluminum metal. The following CRU 2021 emission factors for regions-specific smelters and International Aluminum Institute (IAI) 2021 emission factors are applied:"
+- Calculated based on monthly energy consumption data collected from third-party invoices or meters.,
+- Emission factors:,· For Bauxite-Alumina: IAI Life Cycle Inventory data. The most current data is as of
+· USA: U.S. EPA Emissions & Generated Resource Integrated Database (eGRID) 2020 (January 2022).,"calendar year 2021. The current footprint is 3.89 tCO2e/t prime. · For Smelting-Casting: Novelis uses smelter-specific data (energy mix, emissions)"
+"· Canada: Government of Canada National Inventory Report 1990-2020: Greenhouse Gas Sources and Sinks in Canada Part 3 - Annex 13: Emission Factors, Table A13-7 (2022).","provided by CRU. If a smelter emission factor is not in CRU, smelter emission factors are estimated based on an average of the country's CRU emission factor."
+"· Brazil: Brazilian Government Ministry of Science, Technology and Innovation, year of data used 2021 (published monthly, with the full 2021 year of data",8. Related to Scope 3 emissions - Category 4: Upstream transportation and distribution (including scrap material transportation):
+"finalized and published in 2022), Average Factor - Corporate Inventories, for
+CO2 emission factors only. CH4 and N2O emission factors were taken from the International Energy Agency (IEA).","· Outbound logistics and transportation and distribution between sites: - North America and Asia
+:unselected:"
+· South Korea: Korea Energy Agency Guideline for GHG factor for electricity (last updated 2022).,· Calculated based on weighted average distance between Novelis site and destination (outbound logistics) or between Novelis sites (transportation and
+"· All other countries: IEA Emissions Factors 2021, year of data used 2019 (September 2021). · Purchased steam:","distribution) which is derived based on transaction level shipment data in metric tons (Novelis site to destination or Novelis site to another Novelis site and mode of transport, including the following options: truck, ocean vessel, barge, air, coaster and rail) obtained from Novelis' procurement teams."
+- Calculated based on monthly energy consumption data collected from meters.,- South America and Europe
+- Emission factors:,· Calculated based on weighted average distance between Novelis site and
+"· U.S. EPA Energy and the Environment, Combined Heat and Power (January 2023).",destination (outbound logistics) or between Novelis sites (transportation and distribution) which is derived based on shipment data aggregated by mode
+. The GHG Protocol Scope 2 Guidance sets forth reporting under both location-based and market-based methodologies. This management assertion only relates to Novelis' location-based Scope 2 emissions as Novelis is only reporting location-based at this time as management is in the process of collecting information regarding its use of market-based instruments.,"of transport and route in metric tons (Novelis site to destination or Novelis site to another Novelis site and mode of transport, including the following options: truck, ocean vessel, barge, air, coaster and rail) obtained from Novelis' procurement teams. · Emission factors:"
+,"- Department for Energy Security and Net Zero and Department for Business, Energy & Industrial Strategy, UK Government GHG Conversion Factors for Company Reporting 2022, tab ""Freighting Goods"", version 2.0 (September 2022).
+:unselected:"
+2023 Global Sustainability Report,
