@@ -13,13 +13,13 @@ client = AzureOpenAI(
 )
 
 criterios = "C02 emissions, water waste, energy intensity, waste recycled, atmospheric emissions, accidents frequency, employees recruitments, women participation, disabilities, bussines ethics"
-carpeta = '/Users/mazhihao/Documents/hackathon/Stellantis'
+carpeta = '/Users/mazhihao/Documents/hackathon2/magna_csv'
 carpeta_lista = os.listdir(carpeta)
 
 for archivo in carpeta_lista:
-    with open(f"Stellantis/{archivo}", "r") as f1:
+    with open(f"magna_csv/{archivo}", "r") as f1:
         file1 = f1.read()
-        prompt = f"If the data from {file1}\n\n is related to {criterios} and the data must be relevant especially if it has numbers and easy comparable. Give me only one answer: Yes or Not. Only Only one answer "
+        prompt = f"If the data from {file1}\n\n is related to {criterios} and the data must be relevant especially if it has numbers and easy comparable don't be too overdemanding. Give me only one answer: Yes or Not. Only Only one answer "
         message_text = [
             {"role":"system","content":"You are an AI assistant that helps people classify information."},
             {"role":"user","content":"Who are you?"},
@@ -38,7 +38,7 @@ for archivo in carpeta_lista:
         )
         boleano = completion.choices[0].message.content
         if boleano.startswith("n") or  boleano.startswith("N"):
-            os.remove(f"Stellantis/{archivo}")
+            os.remove(f"magna_csv/{archivo}")
             
 
 
