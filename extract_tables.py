@@ -8,7 +8,7 @@ key = "778cd3003d86499e82d67db670bbbc36"
 
 # sample document
 
-formUrl = "https://d2zo35mdb530wx.cloudfront.net/_binary/UCPthyssenkruppAG/370e5e3b-9068-4437-8820-5b3530b02868/Annual-Report-2022_2023_thyssenkrupp.pdf"
+formUrl = "https://corporate.ford.com/content/dam/corporate/us/en-us/documents/reports/2023-integrated-sustainability-and-financial-report.pdf"
 
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
@@ -50,7 +50,7 @@ for table_idx, table in enumerate(result.tables):
 
 # Guardar cada DataFrame en un archivo CSV
 for idx, df in enumerate(dataframes):
-    filename = f"Forvia_csv/tabla_{idx}.csv"
+    filename = f"BMW/tabla_{idx}.csv"
     df.to_csv(filename, index=False)
     print(f"DataFrame de la Tabla #{idx} guardado como {filename}")
 
