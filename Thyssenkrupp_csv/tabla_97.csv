@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+SENSITIVITY ANALYSIS,,,,,
+,,"Sept. 30, 2022",,"Sept. 30, 2023",
+,,Change of defined benefit obligation (€ million),,Change of defined benefit obligation (€ million),
+,,Germany,Other countries,Germany,Other countries
+Discount rate,Increase by 0.5 percentage points,(275),(108),(252),(104)
+,Decrease by 0.5 percentage points,297,119,270,113
+Rate of compensation increase,Increase by 0.5 percentage points,5,5,4,5
+,Decrease by 0.5 percentage points,(5),(5),(4),(5)
+Rate of pension progression,Increase by 0.25 percentage points,83,20,82,22
+,Decrease by 0.25 percentage points,(82),(20),(81),(22)
+Mortality probability,Decrease by 10.0 percentage points,176,65,168,63

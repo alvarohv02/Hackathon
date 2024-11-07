@@ -7,7 +7,8 @@ endpoint = "https://westeurope.api.cognitive.microsoft.com/"
 key = "778cd3003d86499e82d67db670bbbc36"
 
 # sample document
-formUrl = "https://www.magna.com/docs/default-source/financial-reports-public-filings/tax-other-reports/101188_magna_sustainabilityreport_fy2023_final_aoda.pdf?sfvrsn=47c73834_11"
+
+formUrl = "https://d2zo35mdb530wx.cloudfront.net/_binary/UCPthyssenkruppAG/370e5e3b-9068-4437-8820-5b3530b02868/Annual-Report-2022_2023_thyssenkrupp.pdf"
 
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
@@ -49,7 +50,7 @@ for table_idx, table in enumerate(result.tables):
 
 # Guardar cada DataFrame en un archivo CSV
 for idx, df in enumerate(dataframes):
-    filename = f"magna_csv/tabla_{idx}.csv"
+    filename = f"Thyssenkrupp_csv/tabla_{idx}.csv"
     df.to_csv(filename, index=False)
     print(f"DataFrame de la Tabla #{idx} guardado como {filename}")
 
